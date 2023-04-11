@@ -14,4 +14,4 @@
 Использованы технолоогии Flex и Grid выравнивания. Файловая структуора по БЭМ (Nested). Работа с макетом в "Фигме", Pixel Perfect, а так же адаптация под популярные разрешения 320px 768px 1024px 1280px
 
 ### Ссылка на GitHub Pages
-Спасибо за проявленный интерес к [проекту.] (https://denio318.github.io/russian-travel/index.html)
+Спасибо за проявленный интерес к [проекту.](https://denio318.github.io/russian-travel/index.html)
